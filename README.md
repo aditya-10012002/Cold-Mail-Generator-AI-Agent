@@ -4,7 +4,7 @@ A compact Python project to generate professional cold emails using Google's Gem
 
 <br>
 
-![Screenshot 2025-04-26 200641.png](<https://media-hosting.imagekit.io/a754241df9884022/Screenshot%202025-04-26%20200641.png?Expires=1840290139&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gQOGuo1LLTFLz2vFVwX7nKRNlCSiPcKTwsT1F-c7xwfWmZnp1tWxecAUxZRNpYi~FJrcDHWIpDYrKG-nLqRngtNGvqOCRKAarHZqBY-3eyGNycxKci~01EI3bS~W6AP5QL~C-xDxM1kuE6geio-lPvqkn02bjBV4MBbiqc7sgygQbC5pEEyboemljRRrxKtTAcsaqFNzV6UXwseIG13o7sbR4GsOg8Gh31OcabfrH2CyFJV6auRg4QIIoaK7LQT3daajTCpqdFDC0H0KWIXwODz34c-a9apkpCPIlKkeo4Q-GJCPNSp5rBvrcGB-d5w8ixvZMHHzptE7zPLEy15TJQ__>)
+![Screenshot 2025-04-26 200641.png](<https://ik.imagekit.io/py7zov877/Screenshot%202025-04-26%20200641.png?updatedAt=1748197967534__>)
 
 <br>
 
